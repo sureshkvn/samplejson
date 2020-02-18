@@ -1,0 +1,409 @@
+{
+  "reportdata": [
+  {
+    "HeaderLevel0": 0,
+    "HeaderLevel1": 0,
+    "Header": "NIF",
+    "SubHeader": "",
+    "SubHeader2": "",
+    "Attribute": "CCY",
+    "Value": 0
+  },
+  {
+    "HeaderLevel0": 1,
+    "HeaderLevel1": 0,
+    "Header": "Equity",
+    "SubHeader": "",
+    "SubHeader2": "",
+    "Attribute": "CCY",
+    "Value": 0
+  },
+  {
+    "HeaderLevel0": 0,
+    "HeaderLevel1": 0,
+    "Header": "NIF",
+    "SubHeader": "",
+    "SubHeader2": "",
+    "Attribute": "Ticker",
+    "Value": 0
+  },
+  {
+    "HeaderLevel0": 1,
+    "HeaderLevel1": 0,
+    "Header": "Equity",
+    "SubHeader": "",
+    "SubHeader2": "",
+    "Attribute": "Ticker",
+    "Value": 0
+  },
+  {
+    "HeaderLevel0": 0,
+    "HeaderLevel1": 0,
+    "Header": "NIF",
+    "SubHeader": "",
+    "SubHeader2": "",
+    "Attribute": "LTD",
+    "Value": 0
+  },
+  {
+    "HeaderLevel0": 1,
+    "HeaderLevel1": 0,
+    "Header": "Equity",
+    "SubHeader": "",
+    "SubHeader2": "",
+    "Attribute": "LTD",
+    "Value": 0
+  },
+  {
+    "HeaderLevel0": 0,
+    "HeaderLevel1": 0,
+    "Header": "NIF",
+    "SubHeader": "",
+    "SubHeader2": "",
+    "Attribute": "AggBreakdown",
+    "Value": 0
+  },
+  {
+    "HeaderLevel0": 1,
+    "HeaderLevel1": 0,
+    "Header": "Equity",
+    "SubHeader": "",
+    "SubHeader2": "",
+    "Attribute": "AggBreakdown",
+    "Value": 0
+  },
+  {
+    "HeaderLevel0": 0,
+    "HeaderLevel1": 0,
+    "Header": "NIF",
+    "SubHeader": "",
+    "SubHeader2": "",
+    "Attribute": "MV",
+    "Value": 0
+  },
+  {
+    "HeaderLevel0": 1,
+    "HeaderLevel1": 0,
+    "Header": "Equity",
+    "SubHeader": "",
+    "SubHeader2": "",
+    "Attribute": "MV",
+    "Value": 0
+  },
+  {
+    "HeaderLevel0": 2,
+    "HeaderLevel1": 0,
+    "Header": "Equity",
+    "SubHeader": "USA",
+    "SubHeader2": "",
+    "Attribute": "LTD",
+    "Value": 0
+  },
+  {
+    "HeaderLevel0": 2,
+    "HeaderLevel1": 0,
+    "Header": "Equity",
+    "SubHeader": "USA",
+    "SubHeader2": "",
+    "Attribute": "AggBreakdown",
+    "Value": 0
+  },
+  {
+    "HeaderLevel0": 2,
+    "HeaderLevel1": 0,
+    "Header": "Equity",
+    "SubHeader": "USA",
+    "SubHeader2": "",
+    "Attribute": "Ticker",
+    "Value": 0
+  },
+  {
+    "HeaderLevel0": 2,
+    "HeaderLevel1": 0,
+    "Header": "Equity",
+    "SubHeader": "USA",
+    "SubHeader2": "",
+    "Attribute": "CCY",
+    "Value": 0
+  },
+  {
+    "HeaderLevel0": 2,
+    "HeaderLevel1": 0,
+    "Header": "Equity",
+    "SubHeader": "USA",
+    "SubHeader2": "",
+    "Attribute": "MV",
+    "Value": 0
+  },
+  {
+    "HeaderLevel0": 3,
+    "HeaderLevel1": 1,
+    "Header": "Equity",
+    "SubHeader": "USA",
+    "SubHeader2": "Position1",
+    "Attribute": "CCY",
+    "Value": "USD"
+  },
+  {
+    "HeaderLevel0": 3,
+    "HeaderLevel1": 1,
+    "Header": "Equity",
+    "SubHeader": "USA",
+    "SubHeader2": "Position1",
+    "Attribute": "Ticker",
+    "Value": "AMD-USAA"
+  },
+  {
+    "HeaderLevel0": 3,
+    "HeaderLevel1": 1,
+    "Header": "Equity",
+    "SubHeader": "USA",
+    "SubHeader2": "Position1",
+    "Attribute": "LTD",
+    "Value": "2/17/2020"
+  },
+  {
+    "HeaderLevel0": 3,
+    "HeaderLevel1": 1,
+    "Header": "Equity",
+    "SubHeader": "USA",
+    "SubHeader2": "Position1",
+    "Attribute": "AggBreakdown",
+    "Value": 200
+  },
+  {
+    "HeaderLevel0": 3,
+    "HeaderLevel1": 1,
+    "Header": "Equity",
+    "SubHeader": "USA",
+    "SubHeader2": "Position1",
+    "Attribute": "MV",
+    "Value": 10000
+  },
+  {
+    "HeaderLevel0": 3,
+    "HeaderLevel1": 2,
+    "Header": "Equity",
+    "SubHeader": "USA",
+    "SubHeader2": "Position2",
+    "Attribute": "CCY",
+    "Value": "USD"
+  },
+  {
+    "HeaderLevel0": 3,
+    "HeaderLevel1": 2,
+    "Header": "Equity",
+    "SubHeader": "USA",
+    "SubHeader2": "Position2",
+    "Attribute": "Ticker",
+    "Value": "INTC-USAA"
+  },
+  {
+    "HeaderLevel0": 3,
+    "HeaderLevel1": 2,
+    "Header": "Equity",
+    "SubHeader": "USA",
+    "SubHeader2": "Position2",
+    "Attribute": "LTD",
+    "Value": "2/17/2020"
+  },
+  {
+    "HeaderLevel0": 3,
+    "HeaderLevel1": 2,
+    "Header": "Equity",
+    "SubHeader": "USA",
+    "SubHeader2": "Position2",
+    "Attribute": "AggBreakdown",
+    "Value": 100
+  },
+  {
+    "HeaderLevel0": 3,
+    "HeaderLevel1": 2,
+    "Header": "Equity",
+    "SubHeader": "USA",
+    "SubHeader2": "Position2",
+    "Attribute": "MV",
+    "Value": 6000
+  },
+  {
+    "HeaderLevel0": 4,
+    "HeaderLevel1": 0,
+    "Header": "Equity",
+    "SubHeader": "United Kingdom",
+    "SubHeader2": "",
+    "Attribute": "LTD",
+    "Value": 0
+  },
+  {
+    "HeaderLevel0": 4,
+    "HeaderLevel1": 0,
+    "Header": "Equity",
+    "SubHeader": "United Kingdom",
+    "SubHeader2": "",
+    "Attribute": "AggBreakdown",
+    "Value": 0
+  },
+  {
+    "HeaderLevel0": 4,
+    "HeaderLevel1": 0,
+    "Header": "Equity",
+    "SubHeader": "United Kingdom",
+    "SubHeader2": "",
+    "Attribute": "Ticker",
+    "Value": 0
+  },
+  {
+    "HeaderLevel0": 4,
+    "HeaderLevel1": 0,
+    "Header": "Equity",
+    "SubHeader": "United Kingdom",
+    "SubHeader2": "",
+    "Attribute": "CCY",
+    "Value": 0
+  },
+  {
+    "HeaderLevel0": 4,
+    "HeaderLevel1": 0,
+    "Header": "Equity",
+    "SubHeader": "United Kingdom",
+    "SubHeader2": "",
+    "Attribute": "MV",
+    "Value": 0
+  },
+  {
+    "HeaderLevel0": 5,
+    "HeaderLevel1": 1,
+    "Header": "Equity",
+    "SubHeader": "United Kingdom",
+    "SubHeader2": "Position1",
+    "Attribute": "CCY",
+    "Value": "USD"
+  },
+  {
+    "HeaderLevel0": 5,
+    "HeaderLevel1": 1,
+    "Header": "Equity",
+    "SubHeader": "United Kingdom",
+    "SubHeader2": "Position1",
+    "Attribute": "Ticker",
+    "Value": "AMD-UKAA"
+  },
+  {
+    "HeaderLevel0": 5,
+    "HeaderLevel1": 1,
+    "Header": "Equity",
+    "SubHeader": "United Kingdom",
+    "SubHeader2": "Position1",
+    "Attribute": "LTD",
+    "Value": "2/17/2020"
+  },
+  {
+    "HeaderLevel0": 5,
+    "HeaderLevel1": 1,
+    "Header": "Equity",
+    "SubHeader": "United Kingdom",
+    "SubHeader2": "Position1",
+    "Attribute": "AggBreakdown",
+    "Value": 200
+  },
+  {
+    "HeaderLevel0": 5,
+    "HeaderLevel1": 1,
+    "Header": "Equity",
+    "SubHeader": "United Kingdom",
+    "SubHeader2": "Position1",
+    "Attribute": "MV",
+    "Value": -1000
+  },
+  {
+    "HeaderLevel0": 5,
+    "HeaderLevel1": 2,
+    "Header": "Equity",
+    "SubHeader": "United Kingdom",
+    "SubHeader2": "Position2",
+    "Attribute": "CCY",
+    "Value": "USD"
+  },
+  {
+    "HeaderLevel0": 5,
+    "HeaderLevel1": 2,
+    "Header": "Equity",
+    "SubHeader": "United Kingdom",
+    "SubHeader2": "Position2",
+    "Attribute": "Ticker",
+    "Value": "INTC-UKAA"
+  },
+  {
+    "HeaderLevel0": 5,
+    "HeaderLevel1": 2,
+    "Header": "Equity",
+    "SubHeader": "United Kingdom",
+    "SubHeader2": "Position2",
+    "Attribute": "LTD",
+    "Value": "2/17/2020"
+  },
+  {
+    "HeaderLevel0": 5,
+    "HeaderLevel1": 2,
+    "Header": "Equity",
+    "SubHeader": "United Kingdom",
+    "SubHeader2": "Position2",
+    "Attribute": "AggBreakdown",
+    "Value": -2.5
+  },
+  {
+    "HeaderLevel0": 5,
+    "HeaderLevel1": 2,
+    "Header": "Equity",
+    "SubHeader": "United Kingdom",
+    "SubHeader2": "Position2",
+    "Attribute": "MV",
+    "Value": 6000
+  },
+  {
+    "HeaderLevel0": 5,
+    "HeaderLevel1": 3,
+    "Header": "Equity",
+    "SubHeader": "United Kingdom",
+    "SubHeader2": "Position3",
+    "Attribute": "CCY",
+    "Value": "USD"
+  },
+  {
+    "HeaderLevel0": 5,
+    "HeaderLevel1": 3,
+    "Header": "Equity",
+    "SubHeader": "United Kingdom",
+    "SubHeader2": "Position3",
+    "Attribute": "Ticker",
+    "Value": "INTC-UKAA"
+  },
+  {
+    "HeaderLevel0": 5,
+    "HeaderLevel1": 3,
+    "Header": "Equity",
+    "SubHeader": "United Kingdom",
+    "SubHeader2": "Position3",
+    "Attribute": "LTD",
+    "Value": "2/17/2020"
+  },
+  {
+    "HeaderLevel0": 5,
+    "HeaderLevel1": 3,
+    "Header": "Equity",
+    "SubHeader": "United Kingdom",
+    "SubHeader2": "Position3",
+    "Attribute": "AggBreakdown",
+    "Value": -2.5
+  },
+  {
+    "HeaderLevel0": 5,
+    "HeaderLevel1": 3,
+    "Header": "Equity",
+    "SubHeader": "United Kingdom",
+    "SubHeader2": "Position3",
+    "Attribute": "MV",
+    "Value": 6000
+  }
+]
+}
